@@ -1,4 +1,3 @@
-# AuditEtSecuResProjet
 Pour exécuter correctement le projet : 
 
 le fichier listen.py doit être exécuté sur h1 et h2 (il détectera le netns)
